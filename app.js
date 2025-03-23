@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 // adding feature -button
-=======
 // add new feature
->>>>>>> feature
+// add new feature
+// adding feature -button
+
